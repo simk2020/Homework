@@ -1,8 +1,8 @@
 # Homework
 
-links: 
-git hub url : https://github.com/simk2020/Homework-repo.git
-git pages url :https://simk2020.github.io/simk2020.Homework-repo/#online-reputation-management
+Links: 
+Git hub url : https://github.com/simk2020/Homework-repo.git
+Git pages url :https://simk2020.github.io/simk2020.Homework-repo/#online-reputation-management
 
 Changes Made : 
 
