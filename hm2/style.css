@@ -1,7 +1,17 @@
-p {
-    float: left ;
-}
 
-.button {
+ .container {
+background-color: white ;
+} 
+
+body {
+    background-color: rgb(181, 182, 171);
+    }
+    
+.col-md-5 {
     float: left;
 }
+
+hr {
+    width: 60%;margin-left: auto;margin-right: auto;
+}
+
