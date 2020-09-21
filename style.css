@@ -14,9 +14,10 @@ body {
     background-color: #2a607c;
     color: #ffffff;
 }
-/* 
+ 
 nav{
-    background-color: #2a607c; */
+    background-color: #2a607c;
+}
 
 h1 {
     display: inline-block;
@@ -45,8 +46,9 @@ h1 {
 }
 
 a {
-    color: #ffffff;
+    color: white;
     text-decoration: none;
+    background-color: #2a607c;
 }
 
 p {
@@ -58,6 +60,7 @@ p {
     width: 100%;
     margin-bottom: 25px;
     background-image: url("digital-marketing-meeting.jpg" alt= "a small group meeting having a discussion " );
+    image: url("digital-marketing-meeting.jpg" alt= "a small group meeting having a discussion " );
     background-size: cover;
     background-position: center;
 }
