@@ -13,3 +13,5 @@ Changes Made :
 - Added alt attributes to all the images of the page.
 
 - Title of the page to be named "welcome to Horiseon"
+
+assets/img1.png
