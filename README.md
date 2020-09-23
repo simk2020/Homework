@@ -18,7 +18,4 @@ Changes Made :
 <<<<<<< HEAD
 
 =======
-![demonstration](./assets/img1.png)
->>>>>>> a6f542e13eca8cb843b57a42766b7523cb3cde0c
-assets/img1.png
-simk2020.Homework1\assets\img2.png]
+![demonstration](./assets/demo.jpg)
