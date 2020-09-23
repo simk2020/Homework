@@ -4,6 +4,7 @@ Links:
 Git hub url : https://github.com/simk2020/Homework-repo.git
 Git pages url :https://simk2020.github.io/simk2020.Homework1/
 
+
 Changes Made : 
 
 - Removed DIVs and instead used "header, section, footer"
