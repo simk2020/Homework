@@ -15,11 +15,5 @@ Changes Made :
 
 - Title of the page to be named "welcome to Horiseon"
 
-<<<<<<< HEAD
 
-=======
-<<<<<<< HEAD
 ![demonstration](./assets/demo.jpg)
-=======
-![demonstration](./assets/img1.png)
->>>>>> d5702825bc364592bee3cdcc797acf63f79db5c1
